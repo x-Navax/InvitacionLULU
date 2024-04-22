@@ -306,3 +306,11 @@ footer h1 {text-align: center;
         height: 90%;}
         }
 /* FIN FOOTER */
+/* Estilos para el botón de WhatsApp */
+.botonW img{
+    width: 5rem;
+}
+.botonW{
+    display: flex;
+    justify-content: center;
+}
